@@ -58,11 +58,15 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
-.avatar {
-  vertical-align: middle;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
+body {
+    background-color: #1e1e1e !important; /* Dark background */
+    color: #c0c0c0 !important;           /* Light text */
+}
+header {
+    background-color: #333 !important;
+}
+a {
+    color: #ff6347 !important; /* Change link color */
 }
 
 body {

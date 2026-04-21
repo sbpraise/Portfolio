@@ -10182,6 +10182,16 @@ h3 {
   opacity: 1;
 }
 
+      .form-container {
+        max-width: 500px;
+        margin: auto;
+        margin-top: 50px;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+      }
+
+
 .floating-label-form-group {
   position: relative;
   border-bottom: 1px solid #e9ecef;

@@ -57,11 +57,6 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
-  
-/* Logo styling */
-    .logo img {
-        height: 40px; /* Adjust logo size */
-    }
 
 body {
   margin: 0;

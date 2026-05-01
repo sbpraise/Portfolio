@@ -13,15 +13,17 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>
     <style>
-      .form-container {
-        max-width: 500px;
-        margin: auto;
-        margin-top: 50px;
-        padding: 20px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        background-color: #fff;
-      }
-    </style>
+  	 .form-container {
+   		max-width: 500px;
+    	margin: auto;
+    	margin-top: 50px;
+    	padding: 20px;
+   		box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		background-color: #fff;
+
+    	display: flex; /* added */
+  	}
+	</style>
   </head>
   <body class="bg-light">
     <div class="container">
@@ -37,7 +39,7 @@
               type="text"
               name="name"
               id="name"
-              placeholder="Name"
+              placeholder="Your Name"
               required
             />
           </div>
@@ -48,7 +50,7 @@
               type="email"
               name="email"
               id="email"
-              placeholder="Email"
+              placeholder="Your Email"
               required
             />
           </div>
@@ -59,7 +61,7 @@
               type="text"
               name="contact_number"
               id="contact_number"
-              placeholder="Contact Number"
+              placeholder="Your Contact Number"
               required
             />
           </div>

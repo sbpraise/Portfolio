@@ -1,2 +1,2 @@
 # Portfolio
-A simple show case of sbpraise!
+A simple sbpraise show case! 

@@ -2,6 +2,5 @@
 A simple sbpraise show case! 
 
 
-Testing!
-Here below is my simple image of data processing steps:
-https://github.com/sbpraise/Portfolio/blob/main/data%20cycle.jpg
+Below is my test sample image of data processing steps: 
+Example: ![Data Cycle Preview](https://github.com/sbpraise/Portfolio/blob/main/data%20cycl.PNG)
